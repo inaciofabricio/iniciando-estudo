@@ -3,7 +3,7 @@
 - Como trabalhar como dev? FLUXO de TRABALHO DEV para INICIANTES: PowerShell + VSCode + Git + GitHub
 https://youtu.be/IEWGgS5rlWc
 
-## Formações na Alura
+## Formações na Alura (FRONTEND)
 - 1.1 Formação Front-end
 - 1.2 Formação HTML e CSS
   - 2.1 Formação JavaScript para Front-end
@@ -17,3 +17,6 @@ https://youtu.be/IEWGgS5rlWc
       - 4.5 Formação React com TypeScript
       - 4.6 Formação React: consumindo APIs
         - 5.1 Formação Next.JS
+
+## Formações na Alura (BACKEND)
+...
